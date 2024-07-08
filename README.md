@@ -82,4 +82,3 @@ This Django project demonstrates how to create a nested folder structure using m
 ### Conclusion
 
 This project demonstrates how to implement a nested folder structure in Django using models and manage relationships between parent and child folders effectively.
-while use the admin login 
